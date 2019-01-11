@@ -6,7 +6,7 @@ venue: "Introduction to R- Software Carpentry <br>Nathan Campus - Griffith Unive
 address: "N53_0.58 Nathan Campus"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
 country: "Australia"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1)
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/ISO_639-1)
-latlng: "-27.960345, 153.378868"       # decimal latitude and longitude of workshop venue (e.g., "41.7901128,-87.6007318" - use https://www.latlong.net/)
+latlng: "-27.552941, 153.052425"       # decimal latitude and longitude of workshop venue (e.g., "41.7901128,-87.6007318" - use https://www.latlong.net/)
 humandate: "11-12th June"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
 humantime: "9:00am to 5:00pm"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
 startdate: 2019-06-11      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
